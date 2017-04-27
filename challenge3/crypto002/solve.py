@@ -14,4 +14,4 @@ plaint = plaint.replace('0x','')
 plaint = plaint.replace('L','')
 if len(plaint)%2 != 0:
   plaint = '0'+plaint
-print 'WhiteHat{',sha1(plaint.decode('hex'))hexdigest(),'}'
+print 'WhiteHat{'+sha1(plaint.decode('hex')).hexdigest()+'}'
