@@ -5,7 +5,7 @@ Truy cập vào địa chỉ web side ta thấy yêu cầu nhập mật khẩu.
 Open source ta thấy một đoạn script. Copy đoạn script vất vào console
 
 ```js
-console.log(+[]]+([..........+[]]+([]());
+console.log([][(![]+[]).........[]+[+[]])))());
 ```
 Chạy đoạn `script` trên thu được kết quả như sau:
 
